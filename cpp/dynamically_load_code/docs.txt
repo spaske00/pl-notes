@@ -1,0 +1,2 @@
+https://tldp.org/HOWTO/Program-Library-HOWTO/dl-libraries.html
+https://stackoverflow.com/questions/14884126/build-so-file-from-c-file-using-gcc-command-line
